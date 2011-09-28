@@ -1,6 +1,7 @@
 I am also capable of programming in ASP.NET with C#.
 
-Recently had an interview during which the fellow asked me if I understood XML and collections, eg, creating a web site without database connectivity.  So I provided him with this sample code.
+Recently had an interview during which the fellow asked me if I understood XML and collections, eg, 
+creating a web site without database connectivity.  So I provided him with this sample code.
 
 Features:
 
